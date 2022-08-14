@@ -12,7 +12,7 @@ Functions are as follows: `abs, neg, cmp, gt, gte, lt, lte, eq, neq, min, max, i
 
 If you are using built-in constants: Constants can not be replaced directly, however **the properties of it can. As the constants are also used inside OmegaNum.js, modifying them could CAUSE SERIOUS ISSUES AND POTENTIALLY RENDER THE LIBRARY UNUSABLE.**
 
-If you are not planning to make something to the scale of [Incremental Unlimited](https://play.google.com/store/apps/details?id=com.antoine.mathematician.oddlittlegame) or [True Infinity](https://reinhardt-c.github.io/TrueInfinity), then use other libraries, such as, in ascending order:
+If you are not planning to make something to the scale of [Incremental Unlimited](https://play.google.com/store/apps/details?id=com.antoine.mathematician.oddlittlegame) or [True Infinity](https://reinhardt-c.github.io/TrueJnfinity), then use other libraries, such as, in ascending order:
 
 * [break_infinity.js](https://github.com/Patashu/break_infinity.js) by Patashu - e9e15
 * [decimal.js](https://github.com/MikeMcl/decimal.js) by MikeMcl - e9e15
